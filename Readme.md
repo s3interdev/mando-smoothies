@@ -43,4 +43,4 @@ Finally, to futher organize the code, I employ the MVC (model, view and controll
 
 The live site can be accessed at the [Mando Smoothies website][website].
 
-[website]: https://mando-smoothies.s3.co.ke/
+[website]: https://real-mando-smoothies.s3.co.ke/
