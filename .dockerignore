@@ -1,0 +1,9 @@
+# dependecies folder
+node_modules
+
+# git files
+.git
+.gitignore
+
+# log file
+npm-debug.log
