@@ -29,8 +29,6 @@ npm run serve
 Since the project uses a `.env` file for security, it is advisable to provide the following key values for your own project.
 
 ```
-APP_HOST=127.0.0.1
-APP_PORT=8080
 DB_CONNECTION=<MongoDB connection string value>
 PRIVATE_KEY=<JSON Web Token private key value>
 JWT_MAX_AGE=<JSON Web Token maximum age value>
